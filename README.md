@@ -1,6 +1,5 @@
-# Gamified Study Planner Frontend
+# Gamified Study Planner
 
-This project is the frontend for the Gamified Study Planner, a tool designed to help students organize their studies, track progress, and stay motivated through gamification.
 
 ## Features
 
